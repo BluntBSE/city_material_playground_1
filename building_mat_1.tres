@@ -1,0 +1,13 @@
+[gd_resource type="ORMMaterial3D" format=3 uid="uid://7icugjqs8rkf"]
+
+[resource]
+emission = Color(3.85046e-06, 0.714159, 0.944486, 1)
+emission_energy_multiplier = 0.24
+normal_enabled = true
+rim_tint = 0.56
+anisotropy = 1.0
+ao_enabled = true
+ao_light_affect = 0.07
+subsurf_scatter_enabled = true
+backlight_enabled = true
+grow_amount = -6.831
